@@ -2,46 +2,46 @@ const { User } = require("../models");
 
 const userData = [
   {
-    "username": "martin_bour",
-    "twitter": "martinb",
+    "username": "jay_bour",
+    "twitter": "jayman789",
     "github": "martinb",
-    "email": "martin_b@gmail.com",
+    "email": "jayguy@gmail.com",
     "password": "p@ssword1"
   },
   {
     "username": "matt_b",
-   " twitter": "mathewb",
-   " github": "mathewb",
-   " email": "mathew_b@gmail.com",
-   " password": "p@ssword2"
+   "twitter": "mathyb",
+   "github": "mathewb",
+    "email": "mathew_b@gmail.com",
+   "password": "p@ssword2"
   },
   {
-   " username": "shaun_c",
-    "twitter": "shaun",
+   "username": "shaun_c",
+    "twitter": "shaungt45",
     "github": "shaun",
-   " email": "shaun_c@gmail.com",
+   "email": "shaun_c@gmail.com",
     "password": "p@ssword3"
   },
   {
-   " username": "lee_n",
+   "username": "lee_n",
     "twitter": "leenorris",
-   " github": "leenorris",
+   "github": "leenorris",
     "email": "lee_n@gmail.com",
-   " password": "p@ssword4"
+   "password": "p@ssword4"
   },
   {
     "username": "priya_r",
-   " twitter": "priyaravi23",
-   " github": "priyaravi23",
-   " email": "priya_r@gmail.com",
-   " password": "p@ssword5"
+   "twitter": "priyaravi23",
+   "github": "priyaravi23",
+   "email": "priya_r@gmail.com",
+   "password": "p@ssword5"
   },
   {
-   " username": "pooja",
-   " twitter": "pooja_w",
-   " github": "pooja",
-   " email": "pooja@gmail.com",
-  " password": "p@ssword6"
+   "username": "pooja",
+   "twitter": "pooja_w",
+   "github": "pooja",
+   "email": "pooja@gmail.com",
+  "password": "p@ssword6"
   },
 ];
 
