@@ -20,15 +20,15 @@
   just add a .env with the database name, username and the password if needed.
 
   ## [Usage](#table-of-contents)
- 
-
+   
+    
   ## Contributing
   
       Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
       
   ## [Tests](#table-of-contents)
   just to run the seed is npm run seed and to start is the nppm start. but here is a link to the heroku
-  
+
 
   ##  [Questions](#table-of-contents)
   Please contact me using the following links:

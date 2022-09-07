@@ -45,7 +45,7 @@ input {
 textarea:focus,
 input:focus {
     outline: none;
-    border: 1px solid #3486eb;
+    border: 1px solid green;
 }
 
 textarea {
@@ -89,7 +89,7 @@ main {
     padding: 0;
     cursor: pointer;
     text-decoration: none;
-    color: #225ca3;
+    color: gold;
     font-size: 100%;
     font-weight: bold;
     transition: color .1s;
@@ -98,7 +98,7 @@ main {
 
 .btn-no-style:hover {
     background: none;
-    color: #3486eb;
+    color: darkblue;
 }
 
 .delete-post-btn {
@@ -135,7 +135,7 @@ main {
 }
 
 .comment:nth-child(odd) {
-    background-color: #fff5eb;
+    background-color: violet;
 }
 
 .comment .meta {
